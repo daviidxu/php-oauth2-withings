@@ -1,0 +1,3 @@
+- Stocker les secrets dans un fichier env
+- Une meilleure gestion d'erreur
+- Faire une fonction générique pour gérer les requetes cURL ? Pour un meilleur découpage de fonction.
